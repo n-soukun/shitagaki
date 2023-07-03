@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/shitagaki/static/css/main.073c9b0a.css",
-    "main.js": "/shitagaki/static/js/main.da0f8457.js",
-    "static/js/787.012033d1.chunk.js": "/shitagaki/static/js/787.012033d1.chunk.js",
+    "main.js": "/shitagaki/static/js/main.6e746b06.js",
+    "static/js/787.91cdd8d8.chunk.js": "/shitagaki/static/js/787.91cdd8d8.chunk.js",
     "service-worker.js": "/shitagaki/service-worker.js",
     "static/media/logo.svg": "/shitagaki/static/media/logo.103b5fa18196d5665a7e12318285c916.svg",
     "index.html": "/shitagaki/index.html",
     "main.073c9b0a.css.map": "/shitagaki/static/css/main.073c9b0a.css.map",
-    "main.da0f8457.js.map": "/shitagaki/static/js/main.da0f8457.js.map",
-    "787.012033d1.chunk.js.map": "/shitagaki/static/js/787.012033d1.chunk.js.map"
+    "main.6e746b06.js.map": "/shitagaki/static/js/main.6e746b06.js.map",
+    "787.91cdd8d8.chunk.js.map": "/shitagaki/static/js/787.91cdd8d8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.da0f8457.js"
+    "static/js/main.6e746b06.js"
   ]
 }
