@@ -66,7 +66,7 @@ function App() {
         <LinearProgress variant="determinate" value={textLength / config.length * 100} color={textLength > config.length ? "error" : "secondary"}/>
       )}
       <InputMultiline placeholder={'ここに入力！もしくは貼り付け！'} onChange={(e)=>textChangeHandler(e)} value={text}/>
-      <Fab variant="extended" sx={{position: "absolute", right: "16px", bottom: "16px"}} color="secondary" onClick={writeClipboard}>
+      <Fab variant="extended" sx={{position: "fixed", right: "16px", bottom: "16px"}} color="secondary" onClick={writeClipboard}>
         <ContentCopyIcon sx={{ mr: 1 }} />
         Copy
       </Fab>
