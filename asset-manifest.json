@@ -1,17 +1,16 @@
 {
   "files": {
     "main.css": "/shitagaki/static/css/main.073c9b0a.css",
-    "main.js": "/shitagaki/static/js/main.6e746b06.js",
+    "main.js": "/shitagaki/static/js/main.2a2347d4.js",
     "static/js/787.91cdd8d8.chunk.js": "/shitagaki/static/js/787.91cdd8d8.chunk.js",
     "service-worker.js": "/shitagaki/service-worker.js",
-    "static/media/logo.svg": "/shitagaki/static/media/logo.103b5fa18196d5665a7e12318285c916.svg",
     "index.html": "/shitagaki/index.html",
     "main.073c9b0a.css.map": "/shitagaki/static/css/main.073c9b0a.css.map",
-    "main.6e746b06.js.map": "/shitagaki/static/js/main.6e746b06.js.map",
+    "main.2a2347d4.js.map": "/shitagaki/static/js/main.2a2347d4.js.map",
     "787.91cdd8d8.chunk.js.map": "/shitagaki/static/js/787.91cdd8d8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.6e746b06.js"
+    "static/js/main.2a2347d4.js"
   ]
 }
